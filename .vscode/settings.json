@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Hathora test project.sln"
+    "dotnet.defaultSolution": "Hathora-test-project.sln"
 }
